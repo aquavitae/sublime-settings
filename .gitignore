@@ -1,0 +1,12 @@
+Installed Packages
+Packages/bz2
+Local
+Packages/Colorsublime - Themes/cache
+Packages/HTML-CSS-JS Prettify
+Packages/*
+!Packages/User
+Packages/User/Color Highlighter
+Packages/User/Package Control.cache
+Packages/User/Package Control.last-run
+Packages/User/Package Control.*-ca-bundle
+Packages/User/SublimeLinter
