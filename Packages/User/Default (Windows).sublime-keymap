@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+s"], "command": "save_all" },
+	{ "keys": ["shift+tab"], "command": "unindent" },
+	{ "keys": ["shift+tab"], "command": "prev_field", "context": [
+		{ "key": "has_prev_field", "operator": "equal", "operand": true }
+	]}
+]
