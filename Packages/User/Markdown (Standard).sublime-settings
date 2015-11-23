@@ -2,6 +2,5 @@
     "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
     "tab_size": 2,
     "draw_centered": false,
-    "line_numbers": true,
     "wrap_width": 120
 }
