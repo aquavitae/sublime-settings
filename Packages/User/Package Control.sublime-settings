@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"AdvancedNewFile",
 		"AlignTab",
 		"Babel",
@@ -23,6 +24,7 @@
 		"HTML-CSS-JS Prettify",
 		"Indent Respectful Sort",
 		"JavaScriptNext - ES6 Syntax",
+		"JSHint",
 		"JSONLint",
 		"Makefile Improved",
 		"Markdown Preview",
